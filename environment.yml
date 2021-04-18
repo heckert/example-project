@@ -1,0 +1,13 @@
+name: time-series-ad
+channels:
+  - defaults
+dependencies:
+  - python-dotenv[version='>=0.5.1']
+  - tensorflow-gpu
+  - matplotlib
+  - python[version='>=3.7']
+  - flake8
+  - pandas=1
+  - numpy
+  - jupyterlab
+
