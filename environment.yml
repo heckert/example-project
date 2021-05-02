@@ -1,4 +1,4 @@
-name: example-project
+name: project-template
 channels:
   - defaults
   - conda-forge
