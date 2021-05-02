@@ -7,4 +7,5 @@ dependencies:
   - python[version='>=3.7']
   - pandas>=1
   - numpy
+  - tensorflow-gpu
 
