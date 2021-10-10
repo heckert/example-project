@@ -10,4 +10,5 @@ will create a conda environment with the packages listed in `environment.yml`.
     make tests
 will run the tests.  
 
+---
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
