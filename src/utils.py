@@ -12,7 +12,3 @@ def get_filenames_in_dir(dir:pathlib.Path)->list:
         break
 
     return names
-
-def add(*args):
-    '''Silly function to experiment w testing'''
-    return np.sum(args)
