@@ -1,0 +1,15 @@
+channels:
+  - defaults
+  - conda-forge
+  - anaconda
+dependencies:
+  - python[version='3.10']
+  - pandas
+  - numpy
+  - matplotlib
+  - hydra-core
+  - ipykernel
+  - flake8
+  - pytest
+  - pip
+
