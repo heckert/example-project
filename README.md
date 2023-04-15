@@ -4,7 +4,7 @@ A minimal template to start from when working on data science projects.
 
 ## Setup environment
     make environment
-will create a conda environment with the packages listed in `environment.yml`.
+will create a conda environment with the packages listed in `environment.yaml`.
 
 ## Run tests
     make tests
